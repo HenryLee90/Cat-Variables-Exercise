@@ -1,0 +1,16 @@
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\bin\Debug\net5.0\ConsoleApp1exersize.exe
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\bin\Debug\net5.0\ConsoleApp1exersize.deps.json
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\bin\Debug\net5.0\ConsoleApp1exersize.runtimeconfig.json
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\bin\Debug\net5.0\ConsoleApp1exersize.runtimeconfig.dev.json
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\bin\Debug\net5.0\ConsoleApp1exersize.dll
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\bin\Debug\net5.0\ConsoleApp1exersize.pdb
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.csproj.AssemblyReference.cache
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.AssemblyInfoInputs.cache
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.AssemblyInfo.cs
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.csproj.CoreCompileInputs.cache
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.dll
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\refint\ConsoleApp1exersize.dll
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.pdb
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ConsoleApp1exersize.genruntimeconfig.cache
+C:\Users\hlee0\source\repos\ConsoleApp1exersize\ConsoleApp1exersize\obj\Debug\net5.0\ref\ConsoleApp1exersize.dll
